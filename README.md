@@ -4,4 +4,4 @@ The **Kp Theme** Theme is for [Grav CMS](http://github.com/getgrav/grav).  This 
 
 ## Description
 
-hellow site
+First theming site
